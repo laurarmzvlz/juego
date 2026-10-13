@@ -1,4 +1,5 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Ciudad actual","order":1,"parentId":0,"scrollX":650.4,"scrollY":361.2}
+{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":540.6666666666666,"scrollY":331},
+{"id":2,"expanded":false,"name":"Ciudad antigua","order":2,"parentId":0,"scrollX":819,"scrollY":439.5}
 ]
