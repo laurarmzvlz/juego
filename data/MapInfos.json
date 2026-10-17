@@ -1,5 +1,8 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":540.6666666666666,"scrollY":331},
-{"id":2,"expanded":false,"name":"Ciudad antigua","order":2,"parentId":0,"scrollX":819,"scrollY":439.5}
+{"id":1,"expanded":false,"name":"casa (interior)","order":1,"parentId":0,"scrollX":640.8,"scrollY":406.79999999999995},
+null,
+{"id":3,"expanded":true,"name":"Ciudad actual","order":2,"parentId":0,"scrollX":650.4,"scrollY":361.2},
+null,
+{"id":5,"expanded":false,"name":"Ciudad antigua","order":3,"parentId":0,"scrollX":650.4,"scrollY":361.2}
 ]
