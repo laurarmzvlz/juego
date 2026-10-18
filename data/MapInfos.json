@@ -1,8 +1,8 @@
 [
 null,
-{"id":1,"expanded":false,"name":"casa (interior)","order":1,"parentId":0,"scrollX":807,"scrollY":427.5},
-{"id":2,"expanded":false,"name":"Casa Antigua Granja(Exterior)","order":4,"parentId":0,"scrollX":807,"scrollY":427.5},
-{"id":3,"expanded":true,"name":"Ciudad actual","order":2,"parentId":0,"scrollX":807,"scrollY":427.5},
-{"id":4,"expanded":false,"name":"Casa Antigua Granga(interior)","order":5,"parentId":0,"scrollX":807,"scrollY":427.5},
+{"id":1,"expanded":false,"name":"casa (interior)","order":1,"parentId":0,"scrollX":640.8,"scrollY":406.79999999999995},
+{"id":2,"expanded":false,"name":"Casa Antigua Granja(Exterior)","order":4,"parentId":0,"scrollX":650.4,"scrollY":361.2},
+{"id":3,"expanded":true,"name":"Ciudad actual","order":2,"parentId":0,"scrollX":650.4,"scrollY":361.2},
+{"id":4,"expanded":false,"name":"Casa Antigua Granga(interior)","order":5,"parentId":0,"scrollX":650.4,"scrollY":361.2},
 {"id":5,"expanded":false,"name":"Ciudad antigua","order":3,"parentId":0,"scrollX":807,"scrollY":427.5}
 ]
